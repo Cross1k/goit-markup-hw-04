@@ -314,16 +314,23 @@ img {
 .footer {
   background-color: #2e2f42;
   padding: 100px 0;
-  display: flex;
+  /* display: flex; */
   width: 1440px;
+  /* justify-content: flex-start;
+  align-items: baseline; */
 }
 
+.footer-wrapper {
+  display: flex;
+  width: 1440px;
+  justify-content: flex-start;
+  align-items: baseline;
+}
 .footer-container {
   margin-right: 120px;
   width: 264px;
   margin-left: 156px;
-  align-items: baseline;
-  justify-content: flex-start;
+  /* display: flex; */
 }
 
 .footer-social {
