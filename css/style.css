@@ -322,7 +322,7 @@ img {
 
 .footer-wrapper {
   display: flex;
-  width: 1440px;
+  /* width: 1440px; */
   justify-content: flex-start;
   align-items: baseline;
 }
