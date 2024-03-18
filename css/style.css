@@ -42,7 +42,7 @@ img {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
-  justify-content: center;
+  /* justify-content: center; */
 }
 
 .section {
@@ -314,7 +314,6 @@ img {
 .footer {
   background-color: #2e2f42;
   padding: 100px 0;
-
   width: 1440px;
 }
 
@@ -322,11 +321,11 @@ img {
   display: flex;
   justify-content: flex-start;
   align-items: baseline;
+  margin: 0 156px;
 }
 .footer-container {
   margin-right: 120px;
   width: 264px;
-  /* margin-left: 156px; */
 }
 
 .footer-social {
