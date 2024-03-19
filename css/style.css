@@ -130,7 +130,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/hero-back.jpg);
+    url(../images/hero-back.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   padding: 188px 0;
